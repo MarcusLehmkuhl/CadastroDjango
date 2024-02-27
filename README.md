@@ -1,1 +1,1 @@
-<img align="center" height="480" width="640" src="Tela_cad.png" >
+<img align="center" height="480" width="640" src="CadastroDj.png" >
